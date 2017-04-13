@@ -1,0 +1,1 @@
+This project would enable users to witness the simulation of planetary objects of the Solar System and individual planets using a Computer System. The users can increase and decrease the speed of revolution of the planets and also see the properties of each planet separately .With all these maneuver abilities one can use this for education purpose. 
